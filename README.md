@@ -1,4 +1,4 @@
 # Snake Game
 <p align="center">
-  <img src="demo.gif" alt="animated" />
+  <img src="game_preview.gif" alt="animated" />
 </p>
