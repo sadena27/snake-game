@@ -1,2 +1,4 @@
 # Snake Game
-![](game_preview.gif)
+<p align="center">
+  <img src="demo.gif" alt="animated" />
+</p>
