@@ -1,2 +1,2 @@
 # Snake Game
-Snake game in Java.
+![](game_preview.gif)
