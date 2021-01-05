@@ -1,2 +1,2 @@
-# snake-game
-Snake game in Java
+# Snake Game
+Snake game in Java.
